@@ -1,1 +1,5 @@
 package ServeReport
+
+func init() {
+
+}
